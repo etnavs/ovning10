@@ -1,6 +1,31 @@
 
+.container{
+    max-width:400px;
+    background-color: rgba(55, 64, 88, 0.9);
+    border: 2px solid rgba(238, 228, 224, 0.4);
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
 
-output-container{
-    background-color:aquamarine;
-    border: 2px solid red;
+.topmargin {
+
+    margin-top: 100px;   
+
+}
+
+.botmargin {
+    margin-bottom: 100px;
+}
+
+.textarea{
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+body{
+    background-color: rgba(10, 10, 0);
 }
